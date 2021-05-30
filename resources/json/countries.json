@@ -1,0 +1,24 @@
+{
+    "results": [
+          {
+            "Name": "Bulgaria",
+            "Code": "BG"
+          },
+          {
+            "Name": "Canada",
+            "Code": "CA"
+          },
+          {
+            "Name": "Denmark",
+            "Code": "DK"
+          },
+          {
+            "Name": "Finland",
+            "Code": "FI"
+          },
+          {
+            "Name": "France",
+            "Code": "FR"
+          }
+    ]
+}
