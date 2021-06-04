@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## How to run the project
+- Clone the project from this repository
+- Open command terminal from the project directory
+- Run command : php artisan generate: key
+- Run command : php artisan migrate
+- Run command : php artisan serve (you must have php artisan installed)
+- Open the url that display in the command terminal in your web browser.
+
+## URL in the project
+- /api/countries [GET]
+- /api/search_commodity [POST]
+- to use the POST method you need to add search for the key and fill the value with the word you will search.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
